@@ -26,5 +26,5 @@ This project is a simple Amazon Clone built using only HTML and CSS. It is a sta
 
 # Navigation
 
--- Use the header navigation links to go between pages.
--- The search bar and shopping cart icon are static placeholders in this version and don't have functionality.
+- Use the header navigation links to go between pages.
+- The search bar and shopping cart icon are static placeholders in this version and don't have functionality.
