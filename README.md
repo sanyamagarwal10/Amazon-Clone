@@ -19,7 +19,7 @@ This project is a simple Amazon Clone built using only HTML and CSS. It is a sta
 
  # Usage
  
-- Homepage: Displays featured products in a responsive grid format.
-- Product Listing Page: Browse various products with a simple card layout.
-- Product Details Page: Shows detailed information about a product.
-- Shopping Cart Page: Displays items added to the cart (static content).
+- **Homepage:** Displays featured products in a responsive grid format.
+- **Product Listing Page:** Browse various products with a simple card layout.
+- **Product Details Page:** Shows detailed information about a product.
+- **Shopping Cart Page:** Displays items added to the cart (static content).
