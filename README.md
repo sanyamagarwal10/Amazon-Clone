@@ -10,3 +10,9 @@ This project is a simple Amazon Clone built using only HTML and CSS. It is a sta
 - Static shopping cart page
 - Header with navigation links and search bar
 - Basic footer with information and links
+
+# Technologies Used
+
+- HTML5: Used for the structure of the website.
+- CSS3: Used for styling, layout, and responsiveness.
+- Flexbox & CSS Grid: Layout techniques used for building the structure of various pages.
